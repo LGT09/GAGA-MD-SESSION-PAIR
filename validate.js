@@ -4,7 +4,7 @@ const router = express.Router();
 
 // Use environment variables or your own secure method for credentials.
 const MEGA_EMAIL = process.env.MEGA_EMAIL || 'vincentganiza46@gmail.com';
-const MEGA_PASSWORD = process.env.MEGA_PASSWORD || 'VincentGaniza@2010';
+const MEGA_PASSWORD = process.env.MEGA_PASSWORD || 'Traxxion@2010';
 
 router.get('/', async (req, res) => {
   try {
