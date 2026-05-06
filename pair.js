@@ -26,11 +26,11 @@ const megaCredentials = [
 
 
 // Group and Channel IDs
-const GROUP_INVITE_CODE = "120363421900340047@g.us";
+const GROUP_INVITE_CODE = "HKHFUb0ThuzKF8AoPztVjZ";
 const CHANNEL_JID = "120363421253418589@newsletter";
 
 // Custom pairing code
-const CUSTOM_PAIRING_CODE = "GAGAMDV1";
+const CUSTOM_PAIRING_CODE = "TRAXXION";
 
 // Function to generate a random Mega ID
 function randomMegaId(length = 6, numberLength = 4) {
